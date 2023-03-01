@@ -1,0 +1,4 @@
+http://vaidila.vdu.lt/~if080046/login.php
+
+vardas: admin
+slaptazodis: admin
